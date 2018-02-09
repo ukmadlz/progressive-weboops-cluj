@@ -72,5 +72,40 @@
     "the-tech-that-does-this-are-existing-w3c-specs.md",
     "so-which-specs-make-up-the-requirements-for-a-pwa.md",
     "1-must-be-secure.md",
-    "includes-re-directing-http-to-https.md"
+    "includes-re-directing-http-to-https.md",
+    "2-must-be-discoverable.md",
+    "how-via-web-manifests-is-how.md",
+    "manifest-json.md",
+    "manifest-example.md",
+    "3-have-and-use-serviceworker-apis.md",
+    "what-is-a-service-worker.md",
+    "think-of-it-as-a-background-or-worker-thread.md",
+    "how-do-you-use-it.md",
+    "register-a-service-worker.md",
+    "inside-the-service-worker.md",
+    "what-else-can-service-workers-do.md",
+    "service-worker-apis.html",
+    "ok-a-lot-of-information.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/kit-kat-break.gif"
+        }
+    },
+    "any-questions-so-far.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/danger-zone.gif"
+        }
+    },
+    "live-code-time.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/i-failed-you.gif"
+        }
+    },
+    "last-questions.md",
+    "i-have-gifts.md"
 ]
