@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Progressive WebOops",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "progressive-weboops-braga"
+  }
+}

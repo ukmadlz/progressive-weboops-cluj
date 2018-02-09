@@ -1,0 +1,76 @@
+[
+    "index.md",
+    "who-am-i.md",
+    "currently-working.md",
+    "what-s-this-about.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/surprise.gif"
+        }
+    },
+    "progressive-web-apps.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/everyone-handsup.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/confused-handup.gif"
+        }
+    },
+    "let-s-break-it-down.md",
+    "what-is-a-progressive-web-app.md",
+    "well.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/belly-roll.gif"
+        }
+    },
+    "it-s-a-web-app.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/kthxbye.gif"
+        }
+    },
+    "but-seriously-it-is.md",
+    "it-just-has-a-lot-of-added-extras.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/added-extra-drugs.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/swiss-army-animal.gif"
+        }
+    },
+    "the-whole-point-is-it-s-progressive.md",
+    "so-you-keep-adding-bits.md",
+    "to-be-a-progressive-web-app.md",
+    "need-to-have-certain-characteristics.md",
+    [
+        "characteristics.html",
+        "progressive.md",
+        "responsive.md",
+        "connectivity-independant.md",
+        "app-like.md",
+        "fresh.md",
+        "safe.md",
+        "discoverable.md",
+        "re-engageable.md",
+        "installable.md",
+        "linkable.md"
+    ],
+    "the-tech-that-does-this-are-existing-w3c-specs.md",
+    "so-which-specs-make-up-the-requirements-for-a-pwa.md",
+    "1-must-be-secure.md",
+    "includes-re-directing-http-to-https.md"
+]
