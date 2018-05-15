@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ukmadlz/progressive-weboops-braga.git"
+    "url": "git@github.com:ukmadlz/progressive-weboops-cluj.git"
   },
   "scripts": {
     "test": "grunt test"

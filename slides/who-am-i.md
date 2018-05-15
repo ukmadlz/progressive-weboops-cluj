@@ -3,6 +3,7 @@
 ## Mike Elsmore
 
 #### I do stuff with and on the Internet
+#### (AKA The Internets Muppet)
 
 #### mike@builtbyme.tech
 
