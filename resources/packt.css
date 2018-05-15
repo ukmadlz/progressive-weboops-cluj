@@ -1,0 +1,50 @@
+body {
+    background: #222;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.reveal h1,
+.reveal h2 {
+    color: #ea6725;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.reveal section img {
+    background: none;
+    border: 0;
+}
+
+.reveal .progress {
+    height: 0.8em;
+}
+.reveal .progress span {
+    background-color: transparent;
+    background-image: url('/resources/packt-arrow-icon.png');
+    background-repeat: repeat;
+    background-size: 0.56em;
+}
+
+.reveal .slide-number {
+    bottom: 2em;
+    right: 1em;
+}
+.reveal .social-header {
+    padding: 0 1em;
+    z-index: 9999999999999;
+}
+.reveal .social-header p {
+    display: table-cell;
+    vertical-align: middle;
+}
+.reveal .social-header img {
+    height: 1.5em;
+}
+.reveal .social-header .left-box {
+    float: left;
+}
+.reveal .social-header .right-box {
+    float: right;
+}
+.reveal .social-header .clear-both {
+    clear: both;
+}

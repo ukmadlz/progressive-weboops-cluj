@@ -1,0 +1,1 @@
+![](resources/packt-logo.png)
