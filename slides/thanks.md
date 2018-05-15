@@ -1,4 +1,4 @@
-# Thanks for having
+# Thanks for having me
 
 Tweet me <i class="fa fa-twitter" ></i> [@ukmadlz](https://twitter.com/ukmadlz)
 
