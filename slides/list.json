@@ -54,6 +54,20 @@
         }
     },
     "the-whole-point-is-it-s-progressive.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/commandment.gif"
+        }
+    },
+    "the-internet-wasn-t-created-with-javascript-first.md",
+    "the-whole-point-is-it-s-progressive.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/one-moment.gif"
+        }
+    },
     "so-you-keep-adding-bits.md",
     "to-be-a-progressive-web-app.md",
     "need-to-have-certain-characteristics.md",
