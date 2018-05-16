@@ -101,6 +101,14 @@
     "inside-the-service-worker.md",
     "what-else-can-service-workers-do.md",
     "service-worker-apis.html",
+    "but-what-about-the-tools.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/pick-one.gif"
+        }
+    },
+    "lighthouse.md",
     "ok-a-lot-of-information.md",
     {
         "filename": "blank.md",
